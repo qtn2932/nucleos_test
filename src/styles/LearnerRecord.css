@@ -1,0 +1,5 @@
+.record-container{
+    background-color: #F5F6FA;
+    display: flex;
+    border : red solid 1px;
+}
