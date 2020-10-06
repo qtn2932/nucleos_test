@@ -1,5 +1,9 @@
 .record-container{
-    background-color: #F5F6FA;
+    background-color:#d2d9d4;
     display: flex;
-    border : red solid 1px;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    padding: 2% 3%;
+    justify-content: flex-start;
+    text-align: left;
 }

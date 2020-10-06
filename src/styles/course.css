@@ -1,0 +1,23 @@
+.course-container{
+    display: flex;
+    justify-content: space-around;
+    border-radius: 4px;
+    margin: 1% 0;
+    background-color: white;
+}
+.course-logo{
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+}
+.course-info{
+    width: 85%;
+}
+.info-title{
+    font-weight: bold;
+}
+.title-tile{
+    width: 15%;
+    display: flex;
+    justify-content: space-between;
+}

@@ -1,0 +1,21 @@
+.info-field-container{
+    background-color: #E9EFFD;
+    width: 100%;
+    display: flex;
+    border-radius: 4pt;
+    justify-content: space-around;
+    padding: 2%
+}
+.verify{
+    text-align: right;
+}
+.logo-container{
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    align-items: flex-end;
+}
+.title{
+    font-size: 1rem;
+    font-weight: bold;
+}
